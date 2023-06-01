@@ -8,7 +8,9 @@
 - Simple and optimized coding
 <br/>
 <a href="https://github.com/ixAmirCom/404_Error"><img align="right" title="1" src="https://s29.picofile.com/file/8464037592/login.jpeg"></a>
+
 <br/>
+
 # :pushpin: 2
 - Template of astronaut lost in space
 - Fully responsive
